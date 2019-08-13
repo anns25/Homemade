@@ -79,6 +79,11 @@ h3 a.sub-heading:hover{
 .fas.fa-bars {
   color:#D88BAF;
 }
+
+.navbar-toggler{
+	padding-left: 2px;
+}
+
 .fas.fa-bars:hover {
   color:#0f7fae;
 }
@@ -91,4 +96,10 @@ button.navbar-toggler:focus{
 	text-align: center;
 	color: #ffffff;
 	background-color: #D88BAF;
+}
+
+/* CORRECTING THE HAMBURGER MARGIN PROBLEM */
+
+#hamburger{
+	font-size: 1.5em;
 }
